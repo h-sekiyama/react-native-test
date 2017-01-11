@@ -1,0 +1,12 @@
+{
+  "name": "atemilu_native",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh --port=8888"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "0.31.0"
+  }
+}

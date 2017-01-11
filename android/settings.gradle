@@ -1,0 +1,3 @@
+rootProject.name = 'atemilu_native'
+
+include ':app'
